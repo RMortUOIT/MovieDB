@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Movie DB</string>
+
+    <string name="act1">Movie List</string>
+
+    <string name="release">RELEASE DATE</string>
+    <string name="overview">OVERVIEW</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_movie_details">MovieDetailsActivity</string>
+</resources>
